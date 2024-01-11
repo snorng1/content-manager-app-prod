@@ -4,7 +4,7 @@ const Footer = () => {
         <footer className="footer">
         <div className="content has-text-centered">
           <p>
-            <strong>Content Manager App</strong> by <a href="https://stephanenorng.com">Stepahne Norng</a>
+            <strong>Content Manager App</strong> by <a href="https://stephanenorng.com">Stephane Norng</a>
           </p>
         </div>
       </footer>
